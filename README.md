@@ -89,50 +89,7 @@ I enjoy learning new technologies, building projects, solving programming proble
 
 ---
 
-# 📊 Data Engineering
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-### 🔧 Currently Working With
-
-- ❄️ **Snowflake**
-  - Databases & Schemas
-  - Tables
-  - Stages
-  - File Formats
-  - Data Loading
-  - SnowSQL
-
-- 🧱 **Databricks**
-  - Databricks Workspace
-  - Spark
-  - PySpark
-  - Delta Lake
-
-- 🛠️ **dbt**
-  - dbt Models
-  - Transformations
-  - Basic dbt workflows
-
-- 🗄️ **SQL**
-  - Joins
-  - Aggregations
-  - GROUP BY & HAVING
-  - Subqueries
-  - CTEs
-  - Window Functions
-  - CASE Statements
-  - Regular Expressions
-
----
 
 # 🛠️ Tools & Development Environment
 
