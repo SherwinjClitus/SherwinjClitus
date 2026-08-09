@@ -1,16 +1,189 @@
+# 👋 Hey, I'm Sherwin Clitus!
 
+### 💻 Aspiring Full-Stack Developer | MERN Stack | Java | Python | SQL
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sherwin J Clitus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sherwinjclitus@gmail.com) 
+🎓 BE Electronics & Communication Engineering Graduate  
+🚀 Aspiring Software Developer  
+🌱 Currently focused on **Full-Stack Development**  
+☕ Strengthening **Java, DSA & Problem Solving**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SherwinjClitus&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SherwinjClitus&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinjClitus&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy learning new technologies, building projects, solving programming problems, and continuously improving my development skills.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SherwinjClitus&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 🎓 BE Electronics & Communication Engineering Graduate
+- 💻 Aspiring Full-Stack Developer
+- ⚛️ Currently focusing on **MERN Stack Development**
+- 🟢 Building applications with **Node.js & Express**
+- 🍃 Working with **MongoDB & MySQL**
+- ☕ Practicing **Java & Data Structures**
+- 🐍 Practicing **Python**
+- 📊 Exploring **Data Engineering**
+- ❄️ Working with **Snowflake**
+- 🧱 Learning **Databricks & dbt**
+- 🔧 Using **Git & GitHub** for version control
+- 📚 Always learning something new
+- 🎯 Working towards becoming a strong, job-ready software developer
+
+---
+
+# 💻 Tech Stack
+
+## 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind" />
+</p>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
+</p>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 👨‍💻 Programming & Problem Solving
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+</p>
+
+- ☕ Java
+- 🐍 Python
+- ⚡ C++
+- 🟨 JavaScript
+- 🗄️ SQL
+- 🧩 Data Structures & Algorithms
+- 🔎 Problem Solving
+- 💡 Object-Oriented Programming
+
+---
+
+# 📊 Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### 🔧 Currently Working With
+
+- ❄️ **Snowflake**
+  - Databases & Schemas
+  - Tables
+  - Stages
+  - File Formats
+  - Data Loading
+  - SnowSQL
+
+- 🧱 **Databricks**
+  - Databricks Workspace
+  - Spark
+  - PySpark
+  - Delta Lake
+
+- 🛠️ **dbt**
+  - dbt Models
+  - Transformations
+  - Basic dbt workflows
+
+- 🗄️ **SQL**
+  - Joins
+  - Aggregations
+  - GROUP BY & HAVING
+  - Subqueries
+  - CTEs
+  - Window Functions
+  - CASE Statements
+  - Regular Expressions
+
+---
+
+# 🛠️ Tools & Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,linux" />
+</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 🔌 Other Technologies
+
+- 🔗 REST APIs
+- 📦 JSON
+- 🔐 JWT Authentication
+- 🔒 bcrypt
+- 🍃 Mongoose
+- 🧭 React Router
+- 📦 npm
+- ⚡ Vite
+- 🔧 Git & GitHub
+- 🧪 Postman
+- 💻 VS Code
+
+---
+
+# 📚 Currently Learning
+
+### 🌐 Full-Stack Development
+
+```text
+HTML + CSS
+      ↓
+JavaScript
+      ↓
+React + Vite
+      ↓
+Node.js + Express
+      ↓
+MongoDB
+      ↓
+REST APIs
+      ↓
+Authentication
+      ↓
+Full-Stack Applications
+```
