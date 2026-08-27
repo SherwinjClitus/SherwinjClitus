@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sherwin Clitus!
+# 👋 Hey, I'm Sherwin J Clitus!
 
 ### 💻 Aspiring Full-Stack Developer | MERN Stack | Java | Python | SQL
 
