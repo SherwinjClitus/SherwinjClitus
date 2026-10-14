@@ -182,19 +182,6 @@ Explore the repositories for the latest code: **[github.com/SherwinJClitus](http
 
 <sub>These cards use third-party services. They may be cached, rate-limited, or temporarily unavailable; language statistics reflect public repository data and are not a measure of skill.</sub>
 
-## `> contribution_matrix --render`
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SherwinJClitus/SherwinJClitus/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SherwinJClitus/SherwinJClitus/output/github-contribution-grid-snake.svg"/>
-    <img alt="Animated snake traversing the GitHub contribution graph" src="https://raw.githubusercontent.com/SherwinJClitus/SherwinJClitus/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-
-</div>
-
-<sub>Setup instructions for the snake workflow are included at the bottom of this README.</sub>
 
 ## `> connect --open_channel`
 
@@ -221,43 +208,6 @@ Explore the repositories for the latest code: **[github.com/SherwinJClitus](http
 </div>
 
 ---
-
-<details>
-  <summary><b>⚙️ Setup: activate the contribution snake</b></summary>
-
-  Create `.github/workflows/snake.yml` in this profile repository:
-
-  ```yaml
-  name: Generate contribution snake
-
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-
-  permissions:
-    contents: write
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Generate snake SVGs
-          uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-        - name: Publish SVGs
-          uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ```
 
   **Activate it:**
   1. Create a public repository named exactly `SherwinJClitus`.
